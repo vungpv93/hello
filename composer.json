@@ -12,5 +12,10 @@
             "email": "vungpv93@gmail.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            
+        }
+    }
 }
