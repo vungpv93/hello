@@ -5,6 +5,7 @@
     "keywords": ["vungpv","hello"],
     "homepage": "http://vungpv.com",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "vungpv",
