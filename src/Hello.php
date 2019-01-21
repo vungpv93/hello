@@ -1,6 +1,6 @@
 <?php
 
-namespace vungpv\Hellolibs;
+namespace Vungpv\Hellolibs;
 
 class Hello
 {
