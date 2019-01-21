@@ -3,13 +3,12 @@
     "type": "library",
     "description": "Vungpv",
     "keywords": ["vungpv","hello"],
-    "homepage": "https://vungpv.com",
+    "homepage": "http://vungpv.com",
     "license": "MIT",
     "authors": [
         {
             "name": "vungpv",
             "email": "vungpv93@gmail.com",
-            "homepage": "vungpv.com",
             "role": "Developer"
         }
     ]
