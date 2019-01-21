@@ -1,0 +1,16 @@
+{
+    "name": "vungpv/hello",
+    "type": "library",
+    "description": "Vungpv",
+    "keywords": ["vungpv","hello"],
+    "homepage": "https://vungpv.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vungpv",
+            "email": "vungpv93@gmail.com",
+            "homepage": "vungpv.com",
+            "role": "Developer"
+        }
+    ],
+}
